@@ -7,4 +7,4 @@ This guide will show you how to unlock the bootloader of your Redmi 9 using `mtk
 * `git` installed ([Download installer](https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe))
 * `cmd` avaliable
 
-Move on to **[Getting Started](./getting-started.md)** when all is complete
+Move on to **[Getting Started](./getting-started)** when all is complete
