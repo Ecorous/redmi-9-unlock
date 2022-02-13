@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Redmi 9 (lancelot/galahad) Bootloader Unlocking (without timer) using `mtkclient`
+This guide will show you how to unlock the bootloader of your Redmi 9 using `mtkclient`, bypassing the MiUnlock timer.
+(note, this guide assumes you are on windows 64-bit)
 
-You can use the [editor on GitHub](https://github.com/ExoPlant/redmi-9-unlock/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Prerequisites
+* `python` installed and `Add Python 3.x to PATH` checked on installation ([Download installer](https://www.python.org/ftp/python/3.9.10/python-3.9.10-amd64.exe))
+* `git` installed ([Download installer](https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe))
+* `cmd` avaliable
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ExoPlant/redmi-9-unlock/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Move on to **[Getting Started](./getting-started.md)** when all is complete
